@@ -1,0 +1,13 @@
+﻿  Reading Qt configuration (C:/Qt/6.4.2/msvc2019_64/bin/qmake)
+  List.cpp
+  Node.cpp
+  Queue.cpp
+  Stack.cpp
+  MainWindow.cpp
+  main.cpp
+C:\Users\joshu\source\repos\ProyectoEstructuraDeDatos\ProyectoEstructuraDeDatos\Queue.cpp(77): warning C4715: 'Queue::print': not all control paths return a value
+C:\Users\joshu\source\repos\ProyectoEstructuraDeDatos\ProyectoEstructuraDeDatos\Stack.cpp(54): warning C4715: 'Stack::print': not all control paths return a value
+C:\Users\joshu\source\repos\ProyectoEstructuraDeDatos\ProyectoEstructuraDeDatos\List.cpp(45): warning C4715: 'List::valueAt': not all control paths return a value
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  ProyectoEstructuraDeDatos.vcxproj -> C:\Users\joshu\source\repos\ProyectoEstructuraDeDatos\x64\Debug\ProyectoEstructuraDeDatos.exe
